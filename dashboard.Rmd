@@ -75,3 +75,5 @@ plot_ly(x = ~cuisine_description, y = ~score, type = "box") %>%
           xaxis = list(title = "Cuisine Type"),
           yaxis = list(title = "Inspection Score"))
 ```
+
+
