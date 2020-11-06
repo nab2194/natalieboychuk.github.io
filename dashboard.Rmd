@@ -1,10 +1,9 @@
-
 ---
 title: "Dashboard"
 output:
   flexdashboard::flex_dashboard:
-    orientation: columns
-    vertical_layout: fill
+  orientation: columns
+  vertical_layout: fill
 ---
 
 ```{r include=FALSE}
@@ -17,7 +16,7 @@ library(flexdashboard)
 Column {data-width=650}
 ------------------------------------------------------------------------------------
 
-### Chart A 
+### Pizza Restaurants in Manhattan by Latitude and Longitude  
 
 ```{r}
 nyc_inspect = read_csv(file = "./data/nyc_inspec.csv") %>% 
@@ -41,7 +40,7 @@ nyc_pizza %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Number of A-Grade Pizza Restaurants by Borough of NYC 
 
 ```{r}
 nyc_all = 
@@ -52,13 +51,13 @@ nyc_all =
 count(nyc_all, boro) %>% 
   mutate(boro = fct_reorder(boro, n)) %>% 
   plot_ly(x = ~boro, y = ~n, color = ~boro, type = "bar", colors = "viridis") %>% 
-  layout((title = "Number of A-Grade Pizza Spots by Borough of NYC"),
+  layout((title = "Number of A-Grade Pizza Restaurants by Borough of NYC"),
           xaxis = list(title = "Borough"),
-          yaxis = list(title = "Number of A-Grade Pizza Spots"))
+          yaxis = list(title = "N of A-Grade Pizza Restaurants"))
 
 ```
 
-### Chart C
+### Average Health Code Score of 'Grab-and-Go' Restaurants in Manhattan, by Cuisine Type
 
 ```{r}
 nyc_score =
@@ -71,7 +70,7 @@ nyc_score =
 
 nyc_score %>% 
 plot_ly(x = ~cuisine_description, y = ~score, type = "box") %>% 
-  layout((title = "Average Violation Score of 'Grab-and-Go' Restaurants in Manhattan, by Cuisine Type \n(Where Higher Scores Correspond to Higher Quantity/More Serious Violations"),
+  layout((title = "Average Health Code Score of 'Grab-and-Go' Restaurants in Manhattan, by Cuisine Type \n(Where Higher Scores Correspond to Higher Quantity/More Serious Violations"),
           xaxis = list(title = "Cuisine Type"),
           yaxis = list(title = "Inspection Score"))
 ```
