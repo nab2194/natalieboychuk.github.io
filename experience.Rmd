@@ -1,0 +1,78 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Work Experience 
+---
+Work Experience 
+
+*Averting Maternal Death and Disability, Graduate Research Assistant*
+
+
+NYC (February 2020-Present) 
+
+ * Researched Senegal’s experience in evaluating emergency obstetric and newborn care (EmONC) through a literature review in French and summarized key findings for the WHO Monitoring EmONC Handbook revision process 
+ * Completed literature reviews on social and verbal autopsy in measuring maternal deaths and provided recommendations for the maternal death review and audit process in the United States 
+
+---
+
+*Pamodzi Philanthropic Advisors, Consultant* 
+
+NYC and Canada (June-Aug 2019)
+
+
+  * Wrote a 40-page landscape and gap analysis of over 40 philanthropic advising firms in North America, which was used in drafting the firm’s business plan and in meeting with stakeholders 
+
+---
+
+*Moral Psychology Lab at the Munk School of Global Affairs, Research Assistant * 
+
+Toronto (Feb-June 2019)
+
+  * Collaborated with a team of students to complete a literature review on first-responder traumatic stress and wrote a report of recommendations for the Ontario provincial government 
+  * Analyzed over 100 narratives of sexual violence for use of causal language and converted data into Implicit Causality scores using Excel 
+
+---
+
+*Grand Challenges Canada, Consultant* 
+
+Toronto (Nov-Feb 2019)	
+
+  * Conducted a gender analysis of over 30 successful Humanitarian Grand Challenge projects and prepared recommendations for each organization to increase their gender impact 
+
+---
+
+*International Center for Disability and Rehabilitation, Research Assistant* 
+
+Toronto (Aug 2018-Oct 2020)
+
+  * Assisted with a report for the Rwandan government and UNICEF with recommendations for national standards for children and adults living with disabilities 
+  * Wrote a literature review and edited an article with a team evaluating an intervention for children with cerebral palsy in India (published by Disability & Rehabilitation in October 2020) 
+
+---
+
+*Grand Challenges Canada, Analyst* 
+  
+Toronto (Aug 2017-Aug 2018)
+
+  * Drafted a grant for $5M USD for the U.S. Agency for International Development (USAID), which was approved
+  * Worked directly with the Chief Strategy Officer to write policy briefs on humanitarian innovation, which were used by our Chief Executive Officer (CEO) in discussions with the Canadian and German governments
+
+---
+
+*Grand Challenges Canada, Programs and Investments Summer Student* 		
+
+Toronto (May 2017-Aug 2017)
+
+  * Researched the state of the field of sexual and reproductive health and rights (SRHR) in low-income contexts and developed an SRHR investment strategy based on a literature search
+  * Drafted reports for the Board of Directors and Global Affairs Canada on a number of global health topics, including gender, sanitation, etc.
+
+---
+## Publications ## 
+
+  * [Disability and Rehabilitation](https://www.tandfonline.com/doi/full/10.1080/09638288.2020.1836046)
+
