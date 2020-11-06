@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "About"
-      href: about.html
+      href: about-me-.html
     - text: "Experience"
       href: experience.html
     - text: "Relevant Coursework"
