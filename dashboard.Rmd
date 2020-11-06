@@ -4,8 +4,9 @@ title: "Dashboard"
 output:
   html_document:
     df_print: paged
-orientation: columns
-vertical_layout: fill
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
 ---
 
 ```{r include=FALSE}
