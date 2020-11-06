@@ -1,0 +1,24 @@
+---
+title: "Sammy"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+---
+
+This is Sammy. He's my neighbour's cat.
+
+
+Sammy's real family just got a new dog that likes to chase Sammy around, and he doesn't like that too much (look how sad he is!) 
+
+![](images/sammysad.png)
+
+
+During quarantine, I slowly stole Sammy. He kept me company every day during exams and basically just wants all of the pets and attention. I'm deeply obsessed with this cat. This is my favourite photo of us together because he looks like a disgruntled boyfriend that doesn't like posing for pictures
+
+![](images/sammy32.png)
+
+Sammy's a good guy. Everyone should aim to be more like Sammy. 
+
+![](images/sammy2.png)
