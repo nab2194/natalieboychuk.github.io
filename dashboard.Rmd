@@ -2,8 +2,6 @@
 ---
 title: "Dashboard"
 output:
-  html_document:
-    df_print: paged
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
