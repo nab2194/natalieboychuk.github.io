@@ -1,0 +1,25 @@
+name: "Natalie Boychuk" 
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Experience"
+      href: experience.html
+    - text: "Relevant Coursework"
+      href: coursework.html
+    - text: "Sammy"
+      href: sammy.html
+    - text: "Dashboard"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<nab2194@cumc.columbia>
+    - icon: fa-github fa-lg
+      href: http://github.com/nab2194/
+    - icon: fab fa-linkedin
+      href: http://www.linkedin.com/in/natalie-boychuk-22460a116/
+    
+output:
+  html_document:
+    theme: journal
